@@ -1,6 +1,10 @@
-## Hi there 👋
+### Hi!
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bshiribaiev&layout=pie&theme=default)
+I am an engineer that enjoys building systems and tools that drive growth. 
+
+I work on AI-enabled software at Stella Rising. Previously I developed meeting summarization systems at city council and real estate platform at Evergreen Investments, and before that I built automation systems at a law firm. 
+
+I am interested and studying distributed systems and ML integrated software.
 
 ### Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
